@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Mona Lisa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "title": "Yıldızlı Gece",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "price": 150
+  },
+  {
+    "id": 3,
+    "title": "Gece Devriyesi",
+    "image": "https://i.guim.co.uk/img/media/6c8bb35b8506b436b0b1889355d25d76e43ac7ae/108_203_3299_1978/master/3299.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1d829cb3bd18293b2098c2b1f4a467f0",
+    "price": 200
+  },
+  {
+    "id": 4,
+    "title": "İnci Küpeli Kız",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg",
+    "price": 180
+  },
+  {
+    "id": 5,
+    "title": "Çığlık",
+    "image": "https://media.npr.org/assets/img/2012/05/03/scream_vert-a59c4997eed62f01e7ce9f7471890ea40f1f4636.jpg?s=800&c=85&f=jpeg",
+    "price": 220
+  },
+  {
+    "id": 6,
+    "title": "Son Akşam Yemeği",
+    "image": "https://theartchi.com/cdn/shop/articles/Screenshot_2023-07-12_180740.jpg?v=1703224039&width=1500",
+    "price": 250
+  },
+  {
+    "id": 7,
+    "title": "Nilüferler",
+    "image": "https://www.tabloshop.com/image/cache/webp/data/urun/unlu-ressamlar/BS-180__model_3-1000x1000.webp",
+    "price": 170
+  },
+  {
+    "id": 8,
+    "title": "Guernica",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/7/7f/Picasso_Guernica.jpg",
+    "price": 300
+  },
+
+  {
+    "id": 9,
+    "title": "Belleğin Azmi",
+    "image": "https://www.tablohane.com/img/blogKapak/salvador-dali-bellegin-azmi-tablosu-la-persistencia-de-la-memoria-blogkapak.jpg",
+    "price": 300
+  }
+]

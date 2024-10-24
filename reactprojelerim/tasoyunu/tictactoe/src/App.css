@@ -1,0 +1,83 @@
+body {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+  margin: 0;
+}
+
+.oyun {
+  text-align: center;
+  background-color: #444;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+  color: #fff;
+}
+
+.tahta {
+  display: grid;
+  grid-template-columns: repeat(3, 120px);
+  grid-gap: 15px;
+  margin: 20px auto;
+}
+
+.kare {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  background-color: #222;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  color: #61dafb;
+}
+
+.kare:hover {
+  background-color: #61dafb;
+  color: #fff;
+  transform: scale(1.1);
+}
+
+.kare:active {
+  background-color: #3498db;
+  transform: scale(1.05);
+}
+
+.oyun-bilgisi {
+  font-size: 24px;
+  margin-top: 15px;
+}
+
+.sifirla-buton {
+  padding: 10px 25px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 25px;
+  background-color: #61dafb;
+  color: #282c34;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease;
+}
+
+.sifirla-buton:hover {
+  background-color: #3498db;
+}
+
+.sifirla-buton:active {
+  background-color: #2980b9;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #61dafb;
+}

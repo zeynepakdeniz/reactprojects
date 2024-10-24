@@ -1,0 +1,18 @@
+firstName:
+  minLength: 2
+  maxLength: 50
+lastName:
+  minLength: 2
+  maxLength: 50
+city:
+  minLength: 2
+
+idNumber:
+  minLegth: 11
+  maxLength: 11
+  type: "string"
+  pattern: "^[0-9]{11}$"
+  errorMesage: "TC kimlik numarası 11 haneli olmak zorundadır"
+phoneNumber:
+
+email:
